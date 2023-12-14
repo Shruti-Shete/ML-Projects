@@ -30,7 +30,9 @@ Accuracy: The Random Forest Classifier achieved an accuracy of 91% on the test s
 Confusion Matrix: Examined the confusion matrix to understand the model's performance.<br />
 
 **Prediction:**
+
 Used both the Decision Tree and Random Forest models to make predictions on new data. The results demonstrate the predicted churn status for hypothetical customer scenarios.
 
 **Conclusion:**
+
 The Decision Tree and Random Forest models show promising results in predicting customer churn based on telecom customer data. The Decision Tree model achieved higher accuracy, but further evaluation and fine-tuning of hyperparameters can improve model performance. 
